@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-In this Repository I have uploded some of sorting algorithms.
+In this Repository I have uploded some of sorting algorithms in Java and Python. 
 
 ## Insertion Sort
 
